@@ -1,4 +1,10 @@
 export const firebaseConfig = {
+  apiKey: 'REPLACE_ME',
+  authDomain: 'REPLACE_ME',
+  projectId: 'REPLACE_ME',
+  storageBucket: 'REPLACE_ME',
+  messagingSenderId: 'REPLACE_ME',
+  appId: 'REPLACE_ME'
   apiKey: "AIzaSyCig388eT5X2EqQqkz_TAAf9LBp-021yNg",
   authDomain: "event-pos-7b94d.firebaseapp.com",
   projectId: "event-pos-7b94d",
